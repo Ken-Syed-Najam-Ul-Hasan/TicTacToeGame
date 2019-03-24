@@ -19,6 +19,7 @@ public class View extends JFrame {
     private JButton B7;
     private JPanel rootPanel;
     private JLabel Result;
+    private JTextField syedNajamUlHasanTextField;
     private int count;
     private Controller C;
 
