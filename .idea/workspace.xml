@@ -5,10 +5,64 @@
       <artifact name="unnamed" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f65625d-b2ed-46d3-889f-2a0543683173" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="7f65625d-b2ed-46d3-889f-2a0543683173" name="Default Changelist" comment="finalized to submit">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/TicTacToe.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToeGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/circle_wins.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cross wins.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/game_drawn.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/Model.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/View$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/View$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/View$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/View$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/View$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/View$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/View$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/View$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/View$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/View.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/cross.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/company/empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/AbstractLayout.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/AbstractLayout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/DimensionInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/DimensionInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/GridConstraints.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/GridConstraints.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/GridLayoutManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/GridLayoutManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/HorizontalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/HorizontalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/LayoutState.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/LayoutState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/Spacer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/Spacer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/SupportCode$TextWithMnemonic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/SupportCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/SupportCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/VerticalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TicTacToe/com/intellij/uiDesigner/core/VerticalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/company/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/company/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/View.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/View.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/com/company/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/circle.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/circle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/cross.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/cross.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/empty.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/empty.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,53 +70,6 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/TicTacToe$Main.ic" NAME="Main Coverage Results" MODIFIED="1552825818125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/View.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="401" column="39" lean-forward="true" selection-start-line="401" selection-start-column="39" selection-end-line="401" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-              <folding>
-                <element signature="e#98#99#0" expanded="true" />
-                <element signature="e#127#128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Model.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1958">
-              <caret line="91" column="19" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
-              <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#125#126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/company/View.form">
-          <provider selected="true" editor-type-id="ui-designer" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,13 +107,26 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="501" />
     <option name="y" value="8" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2H7rjTlHZad3rtCfWz4zDBS79KK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -127,29 +147,37 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553110873465" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="xpath.settings" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "427",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/najam/IdeaProjects/TicTacToeGame",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "shared-indexes"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\najam\IdeaProjects\TicTacToeGame\src\main\java" />
+      <recent name="C:\Users\najam\IdeaProjects\TicTacToeGame\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.View">
+  <component name="RunManager" selected="Application.com.company.View">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Model" />
+      <option name="MAIN_CLASS_NAME" value="java.company.Model" />
       <module name="TicTacToe" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -159,8 +187,21 @@
       </method>
     </configuration>
     <configuration name="View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.View" />
+      <option name="MAIN_CLASS_NAME" value="java.company.View" />
       <module name="TicTacToe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.company.View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.View" />
+      <module name="TicTacToeGame" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
@@ -171,13 +212,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="java.com.company.View" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.com.company.View" />
+      <module name="TicTacToe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="TicTacToeGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="TicTacToeGame" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.company.View" />
         <item itemvalue="Application.View" />
+        <item itemvalue="Application.java.com.company.View" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -188,6 +258,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552747972147</updated>
+      <workItem from="1667647100019" duration="3177000" />
+      <workItem from="1667660093238" duration="96000" />
+      <workItem from="1667660200693" duration="234000" />
+      <workItem from="1667660447933" duration="3144000" />
     </task>
     <task id="LOCAL-00001" summary="finalized to submit">
       <created>1553110158882</created>
@@ -248,19 +322,49 @@
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finalized to submit" />
     <option name="LAST_COMMIT_MESSAGE" value="finalized to submit" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/company/View.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/com/company/View.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/EventListener.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/src.zip!/java/util/EventListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/ActionListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="34" column="39" lean-forward="true" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />

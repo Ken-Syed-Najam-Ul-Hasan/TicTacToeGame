@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="com.company.View">
+  <grid id="27dc6" binding="rootPanel" layout-manager="GridBagLayout">
+    <constraints>
+      <xy x="20" y="20" width="568" height="400"/>
+    </constraints>
+    <properties>
+      <alignmentX value="0.0"/>
+      <doubleBuffered value="false"/>
+      <enabled value="true"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="b59bc" class="javax.swing.JButton" binding="B6">
+        <constraints>
+          <grid row="4" column="3" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <alignmentX value="0.0"/>
+          <alignmentY value="0.5"/>
+          <autoscrolls value="false"/>
+          <doubleBuffered value="false"/>
+          <enabled value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="dbc2c" class="javax.swing.JButton" binding="B5">
+        <constraints>
+          <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <alignmentX value="0.0"/>
+          <alignmentY value="0.5"/>
+          <autoscrolls value="false"/>
+          <doubleBuffered value="false"/>
+          <enabled value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="ab4fe" class="javax.swing.JButton" binding="B4">
+        <constraints>
+          <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <alignmentX value="0.0"/>
+          <alignmentY value="0.5"/>
+          <autoscrolls value="false"/>
+          <doubleBuffered value="false"/>
+          <enabled value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="31b49" class="javax.swing.JButton" binding="B9">
+        <constraints>
+          <grid row="6" column="3" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <alignmentX value="0.0"/>
+          <alignmentY value="0.5"/>
+          <autoscrolls value="false"/>
+          <doubleBuffered value="false"/>
+          <enabled value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="af4ca" class="javax.swing.JButton" binding="B8">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <alignmentX value="0.0"/>
+          <alignmentY value="0.5"/>
+          <autoscrolls value="false"/>
+          <doubleBuffered value="false"/>
+          <enabled value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="3b196" class="javax.swing.JButton" binding="B7">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <alignmentX value="0.0"/>
+          <alignmentY value="0.5"/>
+          <autoscrolls value="false"/>
+          <doubleBuffered value="false"/>
+          <enabled value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="3bb18" class="javax.swing.JButton" binding="B1">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <alignmentX value="0.0"/>
+          <alignmentY value="0.5"/>
+          <autoscrolls value="false"/>
+          <doubleBuffered value="false"/>
+          <enabled value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="c90f9" class="javax.swing.JButton" binding="B2">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <alignmentX value="0.0"/>
+          <alignmentY value="0.5"/>
+          <autoscrolls value="false"/>
+          <doubleBuffered value="false"/>
+          <enabled value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <component id="89bc" class="javax.swing.JButton" binding="B3">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <alignmentX value="0.0"/>
+          <alignmentY value="0.5"/>
+          <autoscrolls value="false"/>
+          <doubleBuffered value="false"/>
+          <enabled value="true"/>
+          <text value=""/>
+        </properties>
+      </component>
+      <vspacer id="9a5b7">
+        <constraints>
+          <grid row="3" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="de065">
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+      </vspacer>
+      <vspacer id="6a428">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+      </vspacer>
+      <component id="5a826" class="javax.swing.JLabel">
+        <constraints>
+          <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <text value="TICTACTOE"/>
+        </properties>
+      </component>
+      <vspacer id="1f397">
+        <constraints>
+          <grid row="7" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+      </vspacer>
+      <component id="327f2" class="javax.swing.JLabel" binding="Result">
+        <constraints>
+          <grid row="8" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <text value="                                "/>
+        </properties>
+      </component>
+      <component id="5dbd1" class="javax.swing.JTextField" binding="syedNajamUlHasanTextField" default-binding="true">
+        <constraints>
+          <grid row="10" column="1" row-span="1" col-span="3" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="-1"/>
+          </grid>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+        <properties>
+          <editable value="false"/>
+          <enabled value="true"/>
+          <horizontalAlignment value="0"/>
+          <text value="Syed Najam Ul Hasan"/>
+        </properties>
+      </component>
+      <vspacer id="a9356">
+        <constraints>
+          <grid row="9" column="2" row-span="1" col-span="1" vsize-policy="6" hsize-policy="1" anchor="0" fill="2" indent="0" use-parent-layout="false"/>
+          <gridbag weightx="0.0" weighty="0.0"/>
+        </constraints>
+      </vspacer>
+    </children>
+  </grid>
+</form>
